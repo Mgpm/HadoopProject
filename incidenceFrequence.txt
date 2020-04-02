@@ -1,0 +1,132 @@
+"Non conformit\u00e9 du mat\u00e9riel roulant"	10
+"Non mise en protection"	10
+"Non respect du point d'arr\u00eat"	1
+"Non respect du point d\u2019arr\u00eat"	7
+"Obstacle sur voie"	1
+"Ouverture par un tiers d\u2019une porte de TGV en marche"	3
+"Ouverture par un tiers d\u2019une porte en marche"	1
+"P\u00e9n\u00e9tration intempestive sur domaine ferm\u00e9"	12
+"P\u00e9remption du potentiel kilom\u00e9trique"	2
+"Perte d\u2019organe du mat\u00e9riel roulant"	36
+"Point limite d\u2019un pantographe d\u00e9pass\u00e9 par une circulation \u00e9lectrique"	11
+"Porte non v\u00e9rroull\u00e9e"	1
+"Porte ouverte en ligne"	90
+"Pr\u00e9sence d'obstacle sur voie"	2
+"Pr\u00e9sence de voyageurs sur voie"	3
+"Quasi accident de travail"	6
+"R\u00e9alimentation intempestive des cat\u00e9naires"	10
+"R\u00e9ception intempestive sur voie occup\u00e9e"	69
+"R\u00e9ception sur voie secondaire"	1
+"Rat\u00e9 de fermeture \u00e0 un passage \u00e0 niveau"	72
+"Reception sur voie non-electrifi\u00e9e"	2
+"Restitution DFV sans d\u00e9gagement"	1
+"Restitution d'une Demande de Fermeture de Voie"	1
+"Rupture d'attelage"	2
+"Sortie intempestive ou engagement d\u2019un domaine ferm\u00e9"	40
+"Talonnage d\u2019aiguille ou bivoie"	120
+"Type"	1
+"accident du travail"	4
+"d\u00e9rive"	1
+"incident cat\u00e9naire"	1
+"incident grave de signalisation"	3
+"intemp\u00e9ries"	1
+"nez \u00e0 nez"	1
+"porte ouverte en ligne"	2
+"reception sur voie non \u00e9quip\u00e9e"	1
+"robinet de suspension isol\u00e9"	1
+""	5
+"Accident de marchandise dangereuse"	6
+"Accident de personne"	24
+"Accident de voyageur"	4
+"Accident du travail"	52
+"Accostage brutal"	8
+"Acte de Malveillance"	1
+"Acte de malveillance"	15
+"Appareil de voie mal dispos\u00e9"	10
+"Arr\u00eat hors de quai de tout ou partie d\u2019un train de voyageurs"	8
+"Arr\u00eat prolong\u00e9 d\u2019un train de voyageurs dans un tunnel de plus de 1 km"	1
+"Autorisation de d\u00e9part sans autorisation"	1
+"Autorisation de franchissement sans v\u00e9rification"	10
+"Autre"	1
+"Avarie au mat\u00e9riel"	1
+"Avarie mat\u00e9riel roulant"	10
+"Bo\u00eete chaude"	14
+"Chute de voyageur"	4
+"Circulation d\u2019un Transport Exceptionnel sans annonce"	1
+"Circulation de v\u00e9hicule non autoris\u00e9e"	14
+"Circulation sans autorisation"	1
+"Collision avec enfoncement de heurtoir"	27
+"Collision contre obstacle \u00e0 un passage \u00e0 niveau"	46
+"Collision contre obstacle et deraillement"	1
+"Collision contre obstacle"	73
+"Collision contre un obstacle \u00e0 un passage \u00e0 niveau"	11
+"Collision entre trains ou \u00e9l\u00e9ments de trains"	47
+"Collision par prise en \u00e9charpe"	13
+"Collision"	22
+"Composition non conforme"	10
+"DVL"	2
+"D\u00e9faillance Voie"	1
+"D\u00e9faillance d'ouvrage"	9
+"D\u00e9faillance mat\u00e9riel"	1
+"D\u00e9faillance voie"	117
+"D\u00e9faut ayant conduit \u00e0 un risque grave"	11
+"D\u00e9faut d\u2019immobilisation"	1
+"D\u00e9faut g\u00e9om\u00e9trie voie"	69
+"D\u00e9faut sur aiguille"	1
+"D\u00e9gagement de fum\u00e9e sur mat\u00e9riel roulant"	19
+"D\u00e9gagement intempestif du domaine ferm\u00e9"	17
+"Engagement intempestif d\u2019une circulation sur une voie prot\u00e9g\u00e9e"	30
+"Erreur d\u2019itin\u00e9raire"	9
+"Erreur de proc\u00e9dure"	137
+"Erreur grave de proc\u00e9dure"	17
+"Ev\u00e8nement de s\u00e9curit\u00e9 sans boucle de rattrapage"	1
+"Ev\u00e9nement de s\u00e9curit\u00e9 sans boucle de rattrapage"	1
+"Evolution vers une voie occup\u00e9e"	1
+"Exp\u00e9dition sans ordre"	37
+"Formation intempestive d'un itin\u00e9raire"	1
+"Franchissement de Signal"	2
+"Franchissement de signal"	277
+"Frein serr\u00e9"	4
+"Glissement de Terrain"	1
+"Heurt au croisement"	8
+"Hourcade"	1
+"Incendie dans un train"	53
+"Incendie en gare"	1
+"Incident cat\u00e9naire"	45
+"Incident de frein"	4
+"Incident de marchandise dangereuse"	12
+"Incident grave de passage \u00e0 niveau"	5
+"Incident grave de signalisation"	33
+"Incident grave"	14
+"Insuffisance de freinage"	4
+"Intemp\u00e9ries"	19
+"Manoeuvre vers non \u00e9lectrifi\u00e9e"	1
+"Marchandises dangereuses"	5
+"Mati\u00e8res Dangereuses"	1
+"Mati\u00e8res dangereuses"	11
+"Mauvaise mat\u00e9rialisation du point de d\u00e9gagement"	1
+"Mise en \u0153uvre de travaux en dehors du domaine ferm\u00e9"	26
+"Modification d'itin\u00e9raire sous un train"	1
+"Modification intempestive d'itin\u00e9raire"	1
+"Mouvement en sens inverse du sens normal"	5
+"Nez \u00e0 nez"	1
+"Non alimentation de la conduite principale"	1
+"D\u00e9livrance d\u2019un bulletin de franchissement sans v\u00e9rification"	8
+"D\u00e9part sans autorisation"	53
+"D\u00e9passement de vitesse sup\u00e9rieur \u00e0 40km/h"	73
+"D\u00e9raillement sans engagement de la voie principale"	185
+"D\u00e9raillement"	105
+"D\u00e9rangement des installations de s\u00e9curit\u00e9"	6
+"D\u00e9rive et collision"	1
+"D\u00e9rive"	73
+"D\u00e9shuntage"	15
+"D\u00e9sordre d'ouvrage en terre"	1
+"D\u00e9sordre d\u2019ouvrage d'art"	2
+"D\u00e9sordre d\u2019ouvrage en terre"	11
+"D\u00e9sordre ouvrage d\u2019art"	4
+"Electrisation"	19
+"Electrocution"	1
+"Engagement de gabarit avec collision"	1
+"Engagement de gabarit suite \u00e0 d\u00e9semparement de pi\u00e8ce"	25
+"Engagement de gabarit"	3
+"Engagement intempestif d\u2019une circulation sous cat\u00e9naire consign\u00e9e"	3
