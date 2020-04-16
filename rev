@@ -1,6 +1,0 @@
-Keep all MapReduce code for one job in a single class
-Easily upload and install code and data dependencies at runtime
-Switch input and output formats with a single line of code
-Automatically download and parse error logs for Python tracebacks
-Put command line filters before or after your Python code
-
