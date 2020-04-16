@@ -1,0 +1,20 @@
+/sncf_gares/_mapping/incidences
+{
+  "properties":
+  {
+
+    "Month" : {
+            "type" : "integer"
+          },
+    "Location" : {
+            "type" : "text"
+          },
+    "ERS" : {
+            "type" : "text"
+          },
+    "Type" : {
+            "type" : "text"
+          }
+  }
+
+}
