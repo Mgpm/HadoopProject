@@ -4,16 +4,16 @@
   {
 
     "Month" : {
-            "type" : "integer"
+            "type" : "keyword"
           },
     "Location" : {
-            "type" : "text"
+            "type" : "keyword"
           },
     "ERS" : {
-            "type" : "text"
+            "type" : "keyword"
           },
     "Type" : {
-            "type" : "text"
+            "type" : "keyword"
           }
   }
 
